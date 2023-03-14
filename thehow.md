@@ -1,10 +1,9 @@
 ---
-layout: home
-title: Talent Kaizen
-subtitle: Unlock your business's full potential with the perfect leadership match - we'll handle the search and guarantee success!
+layout: page
+title: The How
+subtitle: The Process
 ---
 
-## The Process
 1. "Step one: share your vision and goals with us, and we'll find you an executive rockstar that's the perfect fit!"
     * Alright, let's get started! We want to know all about what you're looking for in a rockstar for your team! Give us the scoop on your must-haves, nice-to-haves, and the amazing things you need them to achieve. And don't forget to dish on your company culture and vision - we want to hear all about what makes your business an awesome place to be! So tell us, why would someone want to be a part of your fabulous journey? We're ready to jam out with you and make some awesome things happen!
 2. "Step two - let the search begin! Our super awesome team is on the hunt for your perfect match, so sit back and relax while we do the heavy lifting."
