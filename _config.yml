@@ -20,9 +20,9 @@ author: talent kaizen
 ###############################################
 
 navbar-links:
+  The How: "thehow"
   About Us: "aboutus"
   Why Us: "whyus"
-  The How: "thehow"
 
 ################
 # --- Logo --- #
