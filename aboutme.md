@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: Why you'd want to go thru us for hire
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Our story
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+At kaizen, we're all about building dream teams and making magic happen. Our team includes rockstar professionals who have worked at some of the biggest and baddest companies around, including Facebook, Asana, Productboard, Zappos, and Amazon. We're experts in recruiting, engineering, product, and design, and we know what it takes to create a winning team.
+
+Whether you're looking for a coding ninja, a design wizard, or a product guru, we've got you covered. Our team knows how to spot talent and build teams that can take on the world.
+
+So why should you choose us? Well, for starters, we're not your average recruitment agency. We're a team of passionate, dedicated professionals who live and breathe startups. We know what it takes to succeed in today's fast-paced business world, and we're committed to using our skills and expertise to help you build something truly amazing.
+At kaizen, we're all about making the impossible possible. So why not join forces with us and see what we can create together? It's time to dream big and build something extraordinary!
 
 What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
