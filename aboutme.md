@@ -14,3 +14,4 @@ So why should you choose us? Well, for starters, we're not your average recruitm
 At kaizen, we're all about making the impossible possible. So why not join forces with us and see what we can create together? It's time to dream big and build something extraordinary!
 
 What else do you need?
+hello
