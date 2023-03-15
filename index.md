@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talent Kaizen
-subtitle: Unlock your business's full potential with the perfect leadership match - we'll handle the search and guarantee success!
+subtitle: Unlock your business's full potential with the perfect EPD leadership match - we'll handle the search and guarantee success!
 ---
 
 ## Elevate your business with EPD superstars
