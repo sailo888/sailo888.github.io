@@ -10,7 +10,7 @@ Having top-notch talent in engineering, product, and design (EPD) is critical to
 
 ## Our story
 
-At kaizen, we're all about building dream teams and making magic happen. Our team includes rockstar professionals who have worked at some of the biggest and baddest companies around, including Facebook, Asana, Productboard, Zappos, and Amazon. We're experts in recruiting, engineering, product, and design, and we know what it takes to create a winning team.
+At talent kaizen, we're all about building dream teams and making magic happen. Our team includes rockstar professionals who have worked at some of the biggest and baddest companies around, including Facebook, Asana, Productboard, Zappos, and Amazon. We're experts in recruiting, engineering, product, and design, and we know what it takes to create a winning team.
 
 Whether you're looking for a coding ninja, a design wizard, or a product guru, we've got you covered. Our team knows how to spot talent and build teams that can take on the world.
 
